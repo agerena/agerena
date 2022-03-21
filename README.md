@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agerena or Angel Gerena.
 - 👀 I’m interested in becoming a Full-Stack Developer.
-- 🌱 I’m currently learning HTML, CSS, C++, BASH, and Python
+- 🌱 I’m currently learning HTML, CSS, Javascript, and Python
 - 💞️ I’m looking to collaborate on as much projects that I am able to.
 - 📫 How to reach me is via email @gerena.a@protonmail.com.
 
